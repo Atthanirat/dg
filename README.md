@@ -1,4 +1,4 @@
-# Production Journal — [ชื่อ-นามสกุล]
+# Production Journal — [อัตถนิรัต แปงใจดี]
 
 รายวิชา: Digital Game Production Management
 วันที่เริ่มต้น: 23/6/2026
