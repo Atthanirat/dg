@@ -1,0 +1,29 @@
+﻿{
+    "version":  "2.0.0",
+    "tasks":  [
+                  {
+                      "label":  "build-active-project",
+                      "problemMatcher":  "$msCompile",
+                      "command":  "dotnet",
+                      "args":  [
+                                   "build",
+                                   "${file}",
+                                   "/property:GenerateFullPaths=true",
+                                   "/consoleloggerparameters:NoSummary;ForceNoAlign"
+                               ],
+                      "type":  "process"
+                  },
+                  {
+                      "label":  "build-TestGame",
+                      "command":  "dotnet",
+                      "type":  "process",
+                      "args":  [
+                                   "build",
+                                   "${workspaceFolder}/src/TestGame/TestGame.csproj",
+                                   "/property:GenerateFullPaths=true",
+                                   "/consoleloggerparameters:NoSummary;ForceNoAlign"
+                               ],
+                      "problemMatcher":  ""
+                  }
+              ]
+}
