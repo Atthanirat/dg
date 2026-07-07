@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sombarng\\dg225_156\\src\\TestGame\\TestGame.csproj": {}
+    "C:\\Sompong\\REPO\\dg\\src\\TestGame\\TestGame.csproj": {}
   },
   "projects": {
-    "C:\\Sombarng\\dg225_156\\src\\TestGame\\TestGame.csproj": {
+    "C:\\Sompong\\REPO\\dg\\src\\TestGame\\TestGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sombarng\\dg225_156\\src\\TestGame\\TestGame.csproj",
+        "projectUniqueName": "C:\\Sompong\\REPO\\dg\\src\\TestGame\\TestGame.csproj",
         "projectName": "TestGame",
-        "projectPath": "C:\\Sombarng\\dg225_156\\src\\TestGame\\TestGame.csproj",
+        "projectPath": "C:\\Sompong\\REPO\\dg\\src\\TestGame\\TestGame.csproj",
         "packagesPath": "C:\\Users\\atthaniratp\\.nuget\\packages\\",
-        "outputPath": "C:\\Sombarng\\dg225_156\\src\\TestGame\\obj\\",
+        "outputPath": "C:\\Sompong\\REPO\\dg\\src\\TestGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
